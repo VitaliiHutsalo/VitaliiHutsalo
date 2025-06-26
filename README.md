@@ -39,10 +39,12 @@ I'm a frontend developer passionate about building intuitive, responsive, and ma
 
 📌 MyBike – Demo
 Product showcase site for bicycles. Features homepage image slider, animated “Add” buttons, category filters, and mobile-first responsive design.
+
 🌐 [Live Demo](https://vitaliihutsalo.github.io/landing-page/)  | 🛠️ [Code](https://github.com/VitaliiHutsalo/landing-page)
 
 📝 Todo App
 Todo App built with React, TypeScript, and Redux Toolkit. Syncs tasks with an external API. Features adding, editing, deleting, filtering, and bulk actions. Includes optimistic UI, error handling, and responsive design. Clean, modular architecture for easy maintenance and scalability.
+
 🌐 [Live Demo](https://vitaliihutsalo.github.io/Todo-App/)  | 🛠️ [Code](https://github.com/VitaliiHutsalo/Todo-App)
 
 📦 React Product Catalog — Team Project
